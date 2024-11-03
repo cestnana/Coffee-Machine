@@ -14,3 +14,13 @@ This program simulates a coffee machine that can make three types of drinks: esp
 - Real-time resource tracking
 - Maintenance mode with reporting functionality
 - Change calculation and dispensing
+
+## Usage
+
+When running the program, you can:
+
+1. Order drinks by selecting from the menu
+2. Check machine resources by typing "report"
+3. Insert coins when prompted
+4. Receive change if overpaid
+5. Turn off machine using "off" command
