@@ -9,3 +9,11 @@
 - [ ] Implement machine shutdown
   - Secret command: "off"
   - End program execution when triggered
+
+- [ ] Create reporting system
+  - Command: "report"
+  - Display current resources:
+    - Water (ml)
+    - Milk (ml)
+    - Coffee (g)
+    - Money ($)
