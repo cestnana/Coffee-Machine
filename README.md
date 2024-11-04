@@ -24,3 +24,11 @@ When running the program, you can:
 3. Insert coins when prompted
 4. Receive change if overpaid
 5. Turn off machine using "off" command
+
+### Available Commands
+
+- `espresso`: Order an espresso
+- `latte`: Order a latte
+- `cappuccino`: Order a cappuccino
+- `report`: View current resource levels
+- `off`: Turn off the machine
