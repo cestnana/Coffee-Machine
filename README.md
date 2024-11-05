@@ -32,3 +32,24 @@ When running the program, you can:
 - `cappuccino`: Order a cappuccino
 - `report`: View current resource levels
 - `off`: Turn off the machine
+
+## Requirements
+
+- Python 3.x
+
+## Installation
+
+1. Clone this repository:
+```bash
+git clone [your-repository-url]
+```
+
+2. Navigate to the project directory:
+```bash
+cd coffee-machine
+```
+
+3. Run the program:
+```bash
+python main.py
+```
