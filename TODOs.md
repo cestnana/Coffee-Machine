@@ -26,3 +26,12 @@
     - Water
     - Milk
     - Coffee
+
+## Payment System
+- [ ] Implement coin processing
+  - Accept coin inputs:
+    - Quarters ($0.25)
+    - Dimes ($0.10)
+    - Nickels ($0.05)
+    - Pennies ($0.01)
+  - Calculate total money inserted
