@@ -9,3 +9,7 @@ the machine. Your code should end execution when this happens.
 a. When the user enters “report” to the prompt, a report should be generated that shows the current resource values. e.g.Water: 100mlMilk: 50ml
         Coffee: 76g
         Money: $2.5
+4. Check resources sufficient? 
+    * When the user chooses a drink, the program should check if there are enough resources to make that drink. 
+    * E.g. if Latte requires 200ml water but there is only 100ml left in the machine. It should not continue to make the drink but print: “ Sorry there is not enough water.” 
+    * The same should happen if another resource is depleted, e.g. milk or coffee. 
