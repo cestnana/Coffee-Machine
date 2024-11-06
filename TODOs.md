@@ -35,3 +35,13 @@
     - Nickels ($0.05)
     - Pennies ($0.01)
   - Calculate total money inserted
+
+- [ ] Implement transaction verification
+  - Check if inserted amount meets drink price
+  - Handle insufficient funds
+    - Display error message
+    - Refund money
+  - Process change
+    - Round to 2 decimal places
+    - Display change amount
+  - Update machine profit
