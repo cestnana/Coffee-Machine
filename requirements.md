@@ -17,3 +17,7 @@ a. When the user enters “report” to the prompt, a report should be generated
     * If there are sufficient resources to make the drink selected, then the program should prompt the user to insert coins. 
     * Remember that quarters = $0.25, dimes = $0.10, nickles = $0.05, pennies = $0.01 
     * Calculate the monetary value of the coins inserted. E.g. 1 quarter, 2 dimes, 1 nickel, 2 pennies = 0.25 + 0.1 x 2 + 0.05 + 0.01 x 2 = $0.52 
+6. Check transaction successful? 
+    * Check that the user has inserted enough money to purchase the drink they selected. E.g Latte cost $2.50, but they only inserted $0.52 then after counting the coins the program should say “ Sorry that's not enough money. Money refunded. ”. 
+    * But if the user has inserted enough money, then the cost of the drink gets added to the machine as the profit and this will be reflected the next time “report” is triggered. E.g. Water: 100mlMilk: 50ml Coffee: 76g Money: $2.5 
+    * If the user has inserted too much money, the machine should offer change. 
