@@ -21,3 +21,5 @@ a. When the user enters “report” to the prompt, a report should be generated
     * Check that the user has inserted enough money to purchase the drink they selected. E.g Latte cost $2.50, but they only inserted $0.52 then after counting the coins the program should say “ Sorry that's not enough money. Money refunded. ”. 
     * But if the user has inserted enough money, then the cost of the drink gets added to the machine as the profit and this will be reflected the next time “report” is triggered. E.g. Water: 100mlMilk: 50ml Coffee: 76g Money: $2.5 
     * If the user has inserted too much money, the machine should offer change. 
+￼
+E.g. “Here is $2.45 dollars in change.” The change should be rounded to 2 decimal places.
