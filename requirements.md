@@ -25,3 +25,8 @@ a. When the user enters “report” to the prompt, a report should be generated
 E.g. “Here is $2.45 dollars in change.” The change should be rounded to 2 decimal places.
 7. Make Coffee.
 * If the transaction is successful and there are enough resources to make the drink the user selected, then the ingredients to make the drink should be deducted from the coffee machine resources. E.g. report before purchasing latte: Water: 300mlMilk: 200mlCoffee: 100g Money: $0 Report after purchasing latte:         Water: 100ml
+*         Milk: 50ml
+*         Coffee: 76g
+*         Money: $2.5
+* 
+* Once all resources have been deducted, tell the user “Here is your latte. Enjoy!”. If latte was their choice of drink. 
