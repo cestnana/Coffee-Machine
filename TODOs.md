@@ -69,7 +69,7 @@
   - [x] Water: 250ml
   - [x] Milk: 100ml
   - [x] Coffee: 24g
-  - Price: $3.00
+  - [x] Price: $3.00
 
 ## Testing
 - [x] Test all user interactions
