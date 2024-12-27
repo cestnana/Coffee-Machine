@@ -11,7 +11,7 @@
   - [x] End program execution when triggered
 
 - [x] Create reporting system
-  - Command: "report"
+  - [x] Command: "report"
   - Display current resources:
     - Water (ml)
     - Milk (ml)
