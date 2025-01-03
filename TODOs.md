@@ -24,7 +24,7 @@
   - Display appropriate error messages for insufficient resources
   - Track resources:
     - [x] Water
-    - Milk
+    - [x] Milk
     - Coffee
 
 ## Payment System
