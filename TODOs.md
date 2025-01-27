@@ -72,7 +72,7 @@
   - [x] Price: $3.00
 
 ## Testing
-- [x] Test all user interactions
+- Test all user interactions
 - Verify resource management
 - Test payment processing
 - Validate drink making process
