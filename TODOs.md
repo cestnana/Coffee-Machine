@@ -67,7 +67,7 @@
 
   ### Cappuccino
   - [x] Water: 250ml
-  - [x] Milk: 100ml
+  - Milk: 100ml
   - Coffee: 24g
   - Price: $3.00
 
