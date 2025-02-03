@@ -61,7 +61,7 @@
   - [x] Price: $2.50
 
   ### Espresso
-  - [x] Water: 50ml
+  - Water: 50ml
   - Coffee: 18g
   - Price: $1.50
 
