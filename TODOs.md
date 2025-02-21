@@ -38,7 +38,7 @@
 
 - [x] Implement transaction verification
   - [x] Check if inserted amount meets drink price
-  - [x] Handle insufficient funds
+  - Handle insufficient funds
     - Display error message
     - Refund money
   - Process change
