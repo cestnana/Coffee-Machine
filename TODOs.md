@@ -31,7 +31,7 @@
 - [x] Implement coin processing
   - [x] Accept coin inputs:
     - [x] Quarters ($0.25)
-    - [x] Dimes ($0.10)
+    - Dimes ($0.10)
     - Nickels ($0.05)
     - Pennies ($0.01)
   - Calculate total money inserted
