@@ -14,7 +14,7 @@
   - [x] Command: "report"
   - [x] Display current resources:
     - [x] Water (ml)
-    - [x] Milk (ml)
+    - Milk (ml)
     - Coffee (g)
     - Money ($)
 
