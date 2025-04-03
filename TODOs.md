@@ -21,7 +21,7 @@
 ## Resource Management
 - Implement resource checking system
   - [x] Check if enough resources for selected drink
-  - Display appropriate error messages for insufficient resources
+  - [x] Display appropriate error messages for insufficient resources
   - Track resources:
     - Water
     - Milk
