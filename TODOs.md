@@ -25,7 +25,7 @@
   - Track resources:
     - [x] Water
     - [x] Milk
-    - Coffee
+    - [x] Coffee
 
 ## Payment System
 - Implement coin processing
