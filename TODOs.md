@@ -22,7 +22,7 @@
 - [x] Implement resource checking system
   - [x] Check if enough resources for selected drink
   - [x] Display appropriate error messages for insufficient resources
-  - Track resources:
+  - [x] Track resources:
     - [x] Water
     - [x] Milk
     - [x] Coffee
