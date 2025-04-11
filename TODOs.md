@@ -32,7 +32,7 @@
   - Accept coin inputs:
     - [x] Quarters ($0.25)
     - [x] Dimes ($0.10)
-    - Nickels ($0.05)
+    - [x] Nickels ($0.05)
     - Pennies ($0.01)
   - Calculate total money inserted
 
