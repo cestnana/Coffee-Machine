@@ -28,7 +28,7 @@
     - [x] Coffee
 
 ## Payment System
-- Implement coin processing
+- [x] Implement coin processing
   - [x] Accept coin inputs:
     - [x] Quarters ($0.25)
     - [x] Dimes ($0.10)
