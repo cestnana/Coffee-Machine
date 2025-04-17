@@ -39,7 +39,7 @@
 - Implement transaction verification
   - [x] Check if inserted amount meets drink price
   - Handle insufficient funds
-    - Display error message
+    - [x] Display error message
     - Refund money
   - Process change
     - Round to 2 decimal places
