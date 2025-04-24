@@ -36,7 +36,7 @@
     - [x] Pennies ($0.01)
   - [x] Calculate total money inserted
 
-- Implement transaction verification
+- [x] Implement transaction verification
   - [x] Check if inserted amount meets drink price
   - [x] Handle insufficient funds
     - [x] Display error message
