@@ -49,7 +49,7 @@
 ## Drink Making
 - Implement drink preparation
   - [x] Deduct resources for selected drink
-  - Update resource levels
+  - [x] Update resource levels
   - Display success message ("Here is your {drink}. Enjoy!")
 
 ## Drink Recipes
