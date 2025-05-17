@@ -74,5 +74,5 @@
 ## Testing
 - Test all user interactions
 - Verify resource management
-- [x] Test payment processing
+- Test payment processing
 - [x] Validate drink making process
