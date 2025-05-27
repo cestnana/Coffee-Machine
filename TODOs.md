@@ -57,7 +57,7 @@
   ### Latte
   - [x] Water: 200ml
   - [x] Milk: 150ml
-  - [x] Coffee: 24g
+  - Coffee: 24g
   - Price: $2.50
 
   ### Espresso
