@@ -56,7 +56,7 @@
 - [x] Define drink requirements
   ### Latte
   - [x] Water: 200ml
-  - [x] Milk: 150ml
+  - Milk: 150ml
   - Coffee: 24g
   - Price: $2.50
 
