@@ -50,7 +50,7 @@
 - [x] Implement drink preparation
   - [x] Deduct resources for selected drink
   - [x] Update resource levels
-  - [x] Display success message ("Here is your {drink}. Enjoy!")
+  - Display success message ("Here is your {drink}. Enjoy!")
 
 ## Drink Recipes
 - Define drink requirements
