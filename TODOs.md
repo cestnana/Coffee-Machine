@@ -47,7 +47,7 @@
   - [x] Update machine profit
 
 ## Drink Making
-- [x] Implement drink preparation
+- Implement drink preparation
   - Deduct resources for selected drink
   - Update resource levels
   - Display success message ("Here is your {drink}. Enjoy!")
