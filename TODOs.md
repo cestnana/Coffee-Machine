@@ -44,7 +44,7 @@
   - [x] Process change
     - [x] Round to 2 decimal places
     - [x] Display change amount
-  - [x] Update machine profit
+  - Update machine profit
 
 ## Drink Making
 - Implement drink preparation
