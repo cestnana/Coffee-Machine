@@ -43,7 +43,7 @@
     - [x] Refund money
   - [x] Process change
     - [x] Round to 2 decimal places
-    - [x] Display change amount
+    - Display change amount
   - Update machine profit
 
 ## Drink Making
