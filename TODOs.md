@@ -42,7 +42,7 @@
     - [x] Display error message
     - [x] Refund money
   - [x] Process change
-    - [x] Round to 2 decimal places
+    - Round to 2 decimal places
     - Display change amount
   - Update machine profit
 
