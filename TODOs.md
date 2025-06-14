@@ -33,7 +33,7 @@
     - [x] Quarters ($0.25)
     - [x] Dimes ($0.10)
     - [x] Nickels ($0.05)
-    - [x] Pennies ($0.01)
+    - Pennies ($0.01)
   - Calculate total money inserted
 
 - Implement transaction verification
