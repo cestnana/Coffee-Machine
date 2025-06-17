@@ -30,7 +30,7 @@
 ## Payment System
 - [x] Implement coin processing
   - [x] Accept coin inputs:
-    - [x] Quarters ($0.25)
+    - Quarters ($0.25)
     - Dimes ($0.10)
     - Nickels ($0.05)
     - Pennies ($0.01)
