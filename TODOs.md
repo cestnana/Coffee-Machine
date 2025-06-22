@@ -23,7 +23,7 @@
   - [x] Check if enough resources for selected drink
   - [x] Display appropriate error messages for insufficient resources
   - [x] Track resources:
-    - [x] Water
+    - Water
     - Milk
     - Coffee
 
