@@ -16,7 +16,7 @@
     - [x] Water (ml)
     - [x] Milk (ml)
     - [x] Coffee (g)
-    - [x] Money ($)
+    - Money ($)
 
 ## Resource Management
 - Implement resource checking system
