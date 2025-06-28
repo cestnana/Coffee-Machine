@@ -15,7 +15,7 @@
   - [x] Display current resources:
     - [x] Water (ml)
     - [x] Milk (ml)
-    - [x] Coffee (g)
+    - Coffee (g)
     - Money ($)
 
 ## Resource Management
