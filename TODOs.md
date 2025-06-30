@@ -13,7 +13,7 @@
 - [x] Create reporting system
   - [x] Command: "report"
   - [x] Display current resources:
-    - [x] Water (ml)
+    - Water (ml)
     - Milk (ml)
     - Coffee (g)
     - Money ($)
