@@ -10,7 +10,7 @@
   - [x] Secret command: "off"
   - [x] End program execution when triggered
 
-- [x] Create reporting system
+- Create reporting system
   - Command: "report"
   - Display current resources:
     - Water (ml)
