@@ -8,7 +8,7 @@
 
 - [x] Implement machine shutdown
   - [x] Secret command: "off"
-  - [x] End program execution when triggered
+  - End program execution when triggered
 
 - Create reporting system
   - Command: "report"
