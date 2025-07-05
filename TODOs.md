@@ -7,7 +7,7 @@
   - [x] Handle user input validation
 
 - [x] Implement machine shutdown
-  - [x] Secret command: "off"
+  - Secret command: "off"
   - End program execution when triggered
 
 - Create reporting system
