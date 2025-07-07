@@ -4,7 +4,7 @@
 - [x] Implement main program loop with user prompt
   - [x] Prompt: "What would you like? (espresso/latte/cappuccino):"
   - [x] Show prompt after each completed action
-  - [x] Handle user input validation
+  - Handle user input validation
 
 - Implement machine shutdown
   - Secret command: "off"
