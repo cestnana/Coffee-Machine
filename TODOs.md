@@ -3,7 +3,7 @@
 ## Core Functionality
 - [x] Implement main program loop with user prompt
   - [x] Prompt: "What would you like? (espresso/latte/cappuccino):"
-  - [x] Show prompt after each completed action
+  - Show prompt after each completed action
   - Handle user input validation
 
 - Implement machine shutdown
