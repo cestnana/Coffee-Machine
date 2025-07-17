@@ -6,7 +6,7 @@
   - [*] Show prompt after each completed action
   - [*] Handle user input validation
 
-- Implement machine shutdown
+- [*] Implement machine shutdown
   - [*] Secret command: "off"
   - [*] End program execution when triggered
 
