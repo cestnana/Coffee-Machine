@@ -53,7 +53,7 @@
   - [*] Display success message ("Here is your {drink}. Enjoy!")
 
 ## Drink Recipes
-- Define drink requirements
+- [*] Define drink requirements
   ### Latte
   - Water: 200ml
   - Milk: 150ml
