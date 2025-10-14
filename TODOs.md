@@ -34,7 +34,7 @@
     - [*] Dimes ($0.10)
     - [*] Nickels ($0.05)
     - [*] Pennies ($0.01)
-  - [*] Calculate total money inserted
+  - Calculate total money inserted
 
 - Implement transaction verification
   - Check if inserted amount meets drink price
