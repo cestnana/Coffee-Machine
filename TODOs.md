@@ -19,7 +19,7 @@
     - [*] Money ($)
 
 ## Resource Management
-- [*] Implement resource checking system
+- Implement resource checking system
   - Check if enough resources for selected drink
   - Display appropriate error messages for insufficient resources
   - Track resources:
