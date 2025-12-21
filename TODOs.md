@@ -53,7 +53,7 @@
   - [*] Display success message ("Here is your {drink}. Enjoy!")
 
 ## Drink Recipes
-- [*] Define drink requirements
+- Define drink requirements
   ### Latte
   - [*] Water: 200ml
   - [*] Milk: 150ml
@@ -61,7 +61,7 @@
   - [*] Price: $2.50
 
   ### Espresso
-  - Water: 50ml
+  - [*] Water: 50ml
   - Coffee: 18g
   - Price: $1.50
 
