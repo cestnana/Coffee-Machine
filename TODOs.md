@@ -41,7 +41,7 @@
   - [*] Handle insufficient funds
     - [*] Display error message
     - [*] Refund money
-  - Process change
+  - [*] Process change
     - [*] Round to 2 decimal places
     - [*] Display change amount
   - Update machine profit
