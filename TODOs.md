@@ -68,7 +68,7 @@
   ### Cappuccino
   - [*] Water: 250ml
   - [*] Milk: 100ml
-  - [*] Coffee: 24g
+  - Coffee: 24g
   - Price: $3.00
 
 ## Testing
