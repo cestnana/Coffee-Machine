@@ -8,7 +8,7 @@
   - [*] Handle user input validation
 - Implement machine shutdown
   - [*] Secret command: "off"
-  - End program execution when triggered
+  - [*] End program execution when triggered
 - Create reporting system
   - Command: "report"
   - Display current resources:
