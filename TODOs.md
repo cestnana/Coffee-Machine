@@ -38,7 +38,7 @@
   - [*] Calculate total money inserted
 - Implement transaction verification
   - [*] Check if inserted amount meets drink price
-  - Handle insufficient funds
+  - [*] Handle insufficient funds
     - [*] Display error message
     - [*] Refund money
   - Process change
