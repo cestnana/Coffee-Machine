@@ -64,7 +64,7 @@
   ### Espresso
   - [*] Water: 50ml
   - [*] Coffee: 18g
-  - Price: $1.50
+  - [*] Price: $1.50
   ### Cappuccino
   - Water: 250ml
   - Milk: 100ml
