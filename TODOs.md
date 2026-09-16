@@ -40,7 +40,7 @@
   - [*] Check if inserted amount meets drink price
   - [*] Handle insufficient funds
     - [*] Display error message
-    - [*] Refund money
+    - Refund money
   - Process change
     - Round to 2 decimal places
     - Display change amount
